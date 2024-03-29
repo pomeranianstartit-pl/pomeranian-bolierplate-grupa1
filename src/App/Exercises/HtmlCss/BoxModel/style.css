@@ -83,3 +83,10 @@
   /* Overflow dla osi y */
   /* overflow-y: scroll; */
 }
+
+.rem {
+}
+
+.em {
+  font-size: 2em;
+}

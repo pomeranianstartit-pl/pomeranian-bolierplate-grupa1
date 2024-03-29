@@ -19,6 +19,13 @@ export const BoxModel = () => {
       <span className="span_nr3">Przykładowy span3</span>
       {/* Overflow */}
       <div className="div_nr3">Przykładowy div3</div>
+      <div>
+        {/* Blok 16 */}
+        <p className="rem">Hello word</p>
+        <p className="em">Hello word</p>
+        <p className="p_nr5">Hello word</p>
+        <p className="p_nr6">Hello word</p>
+      </div>
     </div>
   );
 };
