@@ -1,0 +1,38 @@
+.faq h2 {
+    color: var(--text-text-primary,#222);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+
+
+}
+.faq-note-wrapper {
+    margin-bottom: 18px;
+    padding: 18px 24px;
+    border-left: 5px solid var(--gray-300, #C8CBD1);
+    border-radius: 8px;
+    box-shadow: 0px 3px 46px 0px rgba(0, 0, 0, 0.06), 0px 4px 10px 0px rgba(0, 0, 0, 0.07);
+    background: var(--background-bg-primary #FFF);
+}
+
+.faq-note-wrapper h2 {
+    font-size: 18px;
+}
+
+.faq-note-wrapper p{
+padding-top: 18px;
+border-top: 1px solid #EBEBEB;
+}
+.faq-note-wrapper img{
+    margin-right: 16px;
+    transition: 0,5s;
+}
+.img {
+    color: red
+}
+.return div h2 {
+    transform: (-90deg);
+    transition: 0,5s;
+}
